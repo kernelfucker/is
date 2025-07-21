@@ -43,7 +43,7 @@ make your own configuration in config.h
 
 default nick is user
 
-default server is irc.libera.chat
+default server is irc.hackint.org
 
 default port is 6697, tls
 
