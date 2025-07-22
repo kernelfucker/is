@@ -4,7 +4,6 @@
 #define default_server "irc.hackint.org"
 #define default_port 6697
 #define default_nick "user"
-#define default_realname "user"
 #define default_channel "#hackint"
 
 #define timestamp "%H:%M"
