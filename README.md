@@ -38,7 +38,7 @@ messages shown with timestamps
 
 status line showing current nick, server, channel
 
-# notes
+# note
 make your own configuration in config.h
 
 default nick is user
